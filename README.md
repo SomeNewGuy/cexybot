@@ -38,24 +38,24 @@ along with this program; if not, write to the Free Software
 Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 
 
-	Please consider donating to us to help see continued support 	and development. For (possibly slow) email support 
-	jteeple @ gmail.com
+Please consider donating to us to help see continued support and development. For (possibly slow) email support:
+jteeple @ gmail.com
 
-
-		----Donation Addresses----	
+Donation Addresses
+==================
 
 If you like our work and use this bot please consider donating to one of the following addresses. Or if you like you may email a CEX code for GHS to jteeple at gmail.com ;) 
 
 A heart founded thanks is always appreciated as well!
 
-  BTC  1D4dsP4ojMos5a5AggXx5DdiFMKXXPUDUg
-  LTC  LgHGSjx6BHYqe6kC84wN2k2sqdXQsbQkcq
-  DOGE DNSx8MSRmi1rQjUZwBiNQ7jisLLYY4RqSC
-  FTC  6q4HRmiVqaCz3BBzEjfQfzp4ufCgnqVama
-  AUR  ANL31J9na9qYvBNxqVUR98e5JJWVDqCEci
-  NMC  N7MMZCUJ5QBmGZFWhXzeofhcvSACocBQeX
-  IXC  xuNA3pakj4zVTvXUrXdvMcHiZReMenAXgq
-  DVC  1PGGYrCDYRFjiKUJZxsQNMerv6WuFypmyx
+BTC  1D4dsP4ojMos5a5AggXx5DdiFMKXXPUDUg
+LTC  LgHGSjx6BHYqe6kC84wN2k2sqdXQsbQkcq
+DOGE DNSx8MSRmi1rQjUZwBiNQ7jisLLYY4RqSC
+FTC  6q4HRmiVqaCz3BBzEjfQfzp4ufCgnqVama
+AUR  ANL31J9na9qYvBNxqVUR98e5JJWVDqCEci
+NMC  N7MMZCUJ5QBmGZFWhXzeofhcvSACocBQeX
+IXC  xuNA3pakj4zVTvXUrXdvMcHiZReMenAXgq
+DVC  1PGGYrCDYRFjiKUJZxsQNMerv6WuFypmyx
 
 FA Questions will be added as they come in and this file appended. We will look at adding a support forum at some point in time to better handle any support needs that may arise.
 
