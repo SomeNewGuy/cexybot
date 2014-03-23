@@ -43,7 +43,7 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 
 
 		----Donation Addresses----	
-		==========================
+
 If you like our work and use this bot please consider donating to one of the following addresses. Or if you like you may email a CEX code for GHS to jteeple at gmail.com ;) 
 
 A heart founded thanks is always appreciated as well!
